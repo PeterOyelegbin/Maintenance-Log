@@ -1,0 +1,33 @@
+Welcome to Maintenane Log 2.0!
+
+A.   HISTORY OF THE SOFTWARE
+===========================
+
+Maintenance Log was created in 2020 by OYETEK, for use by any maintenance firm or  personnel to help in organizing their maintenance schedule and to bring about professionalisms.
+
+This initiative was derived from OYETEK beign a maintenance firm itself, faced with the work load of scheduling maintenance job to bring about simplicity and efficiency.
+
+Thanks to the team players who have worked under OYETEK's direction to make these release possible
+
+
+B.   TERMS AND CONDITIONS FOR ACCESSING OR OTHERWISE USING MAINTENANCE LOG
+===============================================================================
+
+* This package is a product of OYETEK, the right to use this package can only be authorized by OYETEK and BY NO MEANS SHOULD YOU TRANSFER THIS PACKAGE TO ANOTHER INDIVIDUAL OR ORGANISATION WITHOUT AUTHORIZATION.
+
+* Permission to use, copy, modify, and distribute this software for any purpose and without fee is hereby NOT GRANTED.
+
+* OYETEK has no access to your database, be rest assured that all your information are secured. We advice you to not disclose your username and password to avoid intruders.
+
+* This LINCENSE AGREEMENT is between OYETEK and the Individual or Organisation
+
+* OYETEK SHALL NOT BE LIABLE TO ANY LOSS OF DATA OR DELETED DATA IN YOUR DATABASE, be careful to delete any data from your database.
+
+* OYETEK DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE.
+
+* By downloading, or otherwise using Maintenance Log 2.0, the user agrees to be bound by the terms and conditions of this package.
+
+
+OYETEK
+(c) 2020
+All Right Reserved
